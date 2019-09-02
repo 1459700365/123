@@ -1,0 +1,123 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(date 1567418229000)
++++ .idea/workspace.xml	(date 1567418283184)
+@@ -2,8 +2,8 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="6d994d3f-68f9-4d82-b351-d9da367ab22d" name="Default Changelist" comment="">
+-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/shiro_demo1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/shiro_demo1.iml" afterDir="false" />
+     </list>
+     <ignored path="$PROJECT_DIR$/out/" />
+     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+@@ -17,7 +17,17 @@
+     <option name="delegatedBuild" value="true" />
+   </component>
+   <component name="FileEditorManager">
+-    <leaf />
++    <leaf>
++      <file pinned="false" current-in-tab="true">
++        <entry file="file://$PROJECT_DIR$/shiro_demo1.iml">
++          <provider selected="true" editor-type-id="text-editor">
++            <state relative-caret-position="225">
++              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
++            </state>
++          </provider>
++        </entry>
++      </file>
++    </leaf>
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -31,6 +41,7 @@
+     <option name="CHANGED_PATHS">
+       <list>
+         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
++        <option value="$PROJECT_DIR$/shiro_demo1.iml" />
+       </list>
+     </option>
+   </component>
+@@ -89,7 +100,7 @@
+     <property name="project.structure.last.edited" value="Modules" />
+     <property name="project.structure.proportion" value="0.0" />
+     <property name="project.structure.side.proportion" value="0.0" />
+-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
++    <property name="settings.editor.selected.configurable" value="settings.github" />
+   </component>
+   <component name="RunDashboard">
+     <option name="ruleStates">
+@@ -113,7 +124,7 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1567414803905</updated>
+-      <workItem from="1567414805268" duration="1880000" />
++      <workItem from="1567414805268" duration="1944000" />
+     </task>
+     <task id="LOCAL-00001" summary="1">
+       <created>1567414874806</created>
+@@ -136,14 +147,22 @@
+       <option name="project" value="LOCAL" />
+       <updated>1567417712464</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="1">
++      <created>1567418230035</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1567418230035</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="TimeTrackingManager">
+-    <option name="totallyTimeSpent" value="1880000" />
++    <option name="totallyTimeSpent" value="1944000" />
+   </component>
+   <component name="ToolWindowManager">
+     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
++    <editor active="true" />
+     <layout>
+       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20255864" />
+       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+@@ -191,13 +210,17 @@
+     <option name="LAST_COMMIT_MESSAGE" value="1" />
+   </component>
+   <component name="editorHistoryManager">
+-    <entry file="file://$PROJECT_DIR$/shiro_demo1.iml">
+-      <provider selected="true" editor-type-id="text-editor" />
+-    </entry>
+     <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="75">
+           <caret line="3" selection-start-line="3" selection-end-line="3" />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/shiro_demo1.iml">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="225">
++          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+         </state>
+       </provider>
+     </entry>
+Index: shiro_demo1.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- shiro_demo1.iml	(date 1567418229000)
++++ shiro_demo1.iml	(date 1567418283041)
+@@ -7,5 +7,6 @@
+     </content>
+     <orderEntry type="inheritedJdk" />
+     <orderEntry type="sourceFolder" forTests="false" />
++    123
+   </component>
+ </module>
+\ No newline at end of file
